@@ -7,14 +7,18 @@ const linData = {
         }
     ],
     personalLife: {
-        birthDate: "",
-        birthLocation: "",
-        cityOfResidence: "",
+        birthDate: "January 16, 1980",
+        birthLocation: "New York City",
+        cityOfResidence: "New York City",
+        nationality: "Puerto Rican, American",
         family: {
-            spouse: "",
-            kids: [],
-            parents: [],
-            pets: []
+            spouse: "Vanessa Nada",
+            kids: [ "Sebastian Miranda",
+            "Francisco Miranda"
+            ],
+            parents: ["Luis A. Miranda, Jr.",
+            "Luz Towns-Miranda"],
+            pets: ["Tobillo", "Toby"]
         }
     },
     career: {
